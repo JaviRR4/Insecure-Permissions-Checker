@@ -1,4 +1,4 @@
-# check-permissions.sh
+#### Readme.md
 
 
-Analizar sistemas Linux para escalar privilegios en post explotación
+Script simple para analizar sistemas Linux para escalar privilegios en post explotación
